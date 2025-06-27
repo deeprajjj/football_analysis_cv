@@ -1,0 +1,9 @@
+```gitignore
+__pycache__/
+*.pyc
+*.pt
+.DS_Store
+env/
+input_videos/
+output_videos/
+runs/
